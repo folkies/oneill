@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	<title>JC's ABC Tune Finder</title>
+	<META HTTP-EQUIV="Refresh" CONTENT="1; URL=/~jc/cgi/abc/tunefind">
+	<!-- Help search sites find us: -->
+	<meta name="keywords" value="musician,sheet-music,notation,instrument,lesson,manuscript">
+    <link rel="SHORTCUT ICON" href="/~jc/img/music.gif">
+</head>
+<body>
+	<div align=center><b>JC's ABC Tune Finder [<#$P#>]</b></div>
+	<div align=center>
+	<table border=1>
+	<tr><td>
+		The Tune Finder is moving to a CGI script.
+		If you are not redirected within a few seconds, click on 
+		<a href="/~jc/cgi/abc/tunefind">this link to the Tune Finder script</a>
+	</td></tr>
+	</table>
+	</div>
+
+<form method=GET action="/~jc/cgi/abc/tunefind">
+<div align=center>
+	<input type=text name=P size=60 value="">
+<br>Type a title, fragment or <a href="doc/FF_Match.html">pattern</a> and click on the FIND button below
+<br><a href="doc/FF_Match.html">Match</a>:
+	<input type=radio name=m value=title CHECKED><a href="doc/FF_title.html">title</a>
+	<input type=radio name=m value=music><a href="doc/FF_music.html">music</a>
+	<input type=radio name=m value=codes><a href="doc/FF_codes.html">codes</a>
+	<input type=radio name=m value=contour><a href="doc/FF_contour.html">contour</a>
+<br>
+	<a href="doc/FF_Width.html">Width</a>:
+	<input type=radio name=W value=min   >min
+	<input type=radio name=W value=thin >thin
+	<input type=radio name=W value=wide checked>wide
+	<input type=radio name=W value=max   >max
+<br>
+	<a href="doc/FF_Limit.html">Limit</a>:<input type=text name=limit size=4 value="100">
+	<a href="doc/FF_Threshold.html">Threshold</a>:<input type=text name=thresh size=3 value="5">
+	<a href="doc/FF_Sel.html">Sel</a>:<input type=checkbox name=sel>
+	<a href="doc/FF_Verbosity.html">Verbosity</a>:<input type=text name=V size=1 value=1>
+<br>
+	<a href="doc/FF_M.html">M</a>:<input type=text name=M size=4 value="">
+	<a href="doc/FF_L.html">L</a>:<input type=text name=L size=4 value="">
+	<a href="doc/FF_K.html">K</a>:<input type=text name=K size=8 value="">
+<br><input type=submit name=find value="FIND">
+</div>
+</form>
+
+<div align=center>
+<table border=3><tr><td>
+<div align=center>
+<!--	For those who came here looking for recordings: -->
+	<a href="doc/FF_No_Rec.html"><b>There are no recordings of music here</a>.</b><br>
+	If you don't understand how you can have a music site without recordings,
+	you are at the wrong site.
+	Few people other than musicians will find anything interesting here.
+</div>
+</td></tr></table>
+</div>
+
+<div align=center>
+<table border=3>
+<tr><td colspan=3>
+		This package is now installed at these sites:<br>
+	</td>
+</tr>
+<tr><th scope=col>html</th>
+	<th scope=col>script</th>
+	<th scope=col>where</th>
+</tr>
+<tr><td><a href="http://trillian.mit.edu/~jc/music/abc/findtune.html">trillian</a></td>
+	<td><a href="http://trillian.mit.edu/~jc/cgi/abc/FindTune">trillian</a></td>
+	<td>at MIT's EECS department
+	</td> 
+</tr>
+<tr><td><a href="http://jc.tzo.net/~jc/music/abc/findtune.html">jc.tzo.net</a></td>
+	<td><a href="http://jc.tzo.net/~jc/cgi/abc/FindTune">jc.tzo.net</a></td>
+	<td>my home machine, where new features first appear
+	</td>
+</tr>
+</td></tr></table>
+</div>
+<input type=hidden name=KW value='sheet+music+instrument+lesson'>
+
+<table border><tr><td>
+<!-- Search Google -->
+<div align=center>
+Song lyrics are a relatively new feature in ABC,
+and there's not yet much online ABC with lyrics.
+The best way I've found for locating song lyrics
+is to use one of the big search sites.
+Google provides this handy-dandy search widget:
+<form method="get" action="http://www.google.com/custom" target="_top">
+<table bgcolor="#cccccc">
+<tr><td nowrap="nowrap" valign="top" align="left" height="32">
+<a href="http://www.google.com/">
+<img src="http://www.google.com/logos/Logo_25gry.gif" border="0" alt="Google" align="middle"></img></a>
+<input type="text" name="q" size="31" maxlength="255" value=""></input>
+<input type="submit" name="sa" value="Search"></input>
+<input type="hidden" name="client" value="pub-2331562616557135"></input>
+<input type="hidden" name="forid" value="1"></input>
+<input type="hidden" name="ie" value="ISO-8859-1"></input>
+<input type="hidden" name="oe" value="ISO-8859-1"></input>
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:1;"></input>
+<input type="hidden" name="hl" value="en"></input>
+</td></tr></table>
+</form>
+</dif>
+<!-- Search Google -->
+</td></tr></table>
+
+</body>

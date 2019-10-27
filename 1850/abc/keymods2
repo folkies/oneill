@@ -1,0 +1,194 @@
+# (Message inbox:91)
+# Return-Path: seymour.shlien@crc.ca
+# Return-path: <seymour.shlien@crc.ca>
+# Envelope-to: jc@trillian.mit.edu
+# Delivery-date: Mon, 10 Dec 2001 09:36:08 -0500
+# Received: from peso.dgim.crc.ca ([142.92.39.84])
+# 	by trillian.mit.edu with esmtp (Exim 3.33 #2)
+# 	id 16DRXM-0000wc-00
+# 	for jc@trillian.mit.edu; Mon, 10 Dec 2001 09:36:08 -0500
+# Received: from crc.ca (rigel.dgbt.crc.ca [142.92.36.61])
+# 	by peso.dgim.crc.ca (8.12.0/8.12.0) with ESMTP id fBAEZaSL008985
+# 	for <jc@trillian.mit.edu>; Mon, 10 Dec 2001 09:35:36 -0500 (EST)
+# Sender: seymour@peso.dgim.crc.ca
+# Message-ID: <3C14C838.18B5CD11@crc.ca>
+# Date: Mon, 10 Dec 2001 09:35:36 -0500
+# From: Seymour Shlien <seymour.shlien@crc.ca>
+# X-Mailer: Mozilla 4.7 [en] (X11; U; SunOS 5.6 sun4m)
+# X-Accept-Language: en
+# MIME-Version: 1.0
+# To: John Chambers <jc@trillian.mit.edu>
+# Subject: more corrections to O'Neills 1850 collection
+# References: <200112032114.fB3LE9bP015457@peso.dgim.crc.ca>
+# Content-Type: text/plain; charset=us-ascii
+# Content-Transfer-Encoding: 7bit
+
+# John,
+
+# Here are more corrections. I encountered many tunes which do not
+# appear to end on the key of the piece. (You are left hanging).
+# In such cases I left the key signature alone.
+
+# Some tunes start off as major and then later switch to minor. I have
+# left them as major but I may not always be consistent. The mixodolian,
+# dorian and lydian were the most difficult to decide as in many
+# cases I was not sure whether that was the dominant key.
+
+# I shall try to finish the rest next weekend.
+
+
+# 0101-200_hn.abc
+Rp 'K: *C' 'K:Am' 0103*.abc
+Rp 'K: *Bb' 'K:Gm' 0106*.abc
+Rp 'K: *Bb' 'K:Gm' 0109*.abc
+Rp 'K: *F' 'K:Dm' 0111*.abc
+Rp 'K: *G' 'K:Em' 0130*.abc
+Rp 'K: *G' 'K:Dmix' 0140*.abc
+Rp 'K: *F' 'K:Dm' 0142*.abc
+Rp 'K: *Bb' 'K:Gm' 0144*.abc
+Rp 'K: *Bb' 'K:Gm' 0146*.abc
+Rp 'K: *G' 'K:Em' 0156*.abc
+Rp 'K: *Bb' 'K:Gm' 0157*.abc
+Rp 'K: *D' 'K:Amix' 0163*.abc
+Rp 'K: *Bb' 'K:Gm' 0168*.abc
+Rp 'K: *D' 'K:Bm' 0176*.abc
+Rp 'K: *Bb' 'K:Gm' 0180*.abc
+Rp 'K: *Bb' 'K:Gm' 0181*.abc
+Rp 'K: *G' 'K:Dmix' 0184*.abc
+Rp 'K: *G' 'K:Em' 0185*.abc
+Rp 'K: *G' 'K:Em' 0188*.abc
+Rp 'K: *F' 'K:Dm' 0190*.abc
+Rp 'K: *C' 'K:Am' 0193*.abc
+Rp 'K: *C' 'K:Gmix' 0194*.abc
+
+# 0401-0486_hn.abc
+Rp 'K: *D' 'K:AMix' 0405*.abc
+Rp 'K: *F' 'K:Dm' 0415*.abc
+Rp 'K: *F' 'K:Aphr' 0417*.abc
+Rp 'K: *F' 'K:Dm' 0425*.abc
+Rp 'K: *Bb' 'K:Gm' 0427*.abc
+Rp 'K: *Bb' 'K:Gm' 0428*.abc
+Rp 'K: *F' 'K:Dm' 0430*.abc
+Rp 'K: *Bb' 'K:Gm' 0437*.abc
+Rp 'K: *F' 'K:Dm' 0454*.abc
+Rp 'K: *Bb' 'K:Gm' 0456*.abc
+Rp 'K: *F' 'K:Dm' 0458*.abc
+Rp 'K: *Bb' 'K:Gm' 0461*.abc
+Rp 'K: *F' 'K:Dm' 0463*.abc
+Rp 'K: *C' 'K:Am' 0466*.abc
+Rp 'K: *C' 'K:Am' 0468*.abc
+Rp 'K: *F' 'K:Gdor' 0469*.abc
+Rp 'K: *F' 'K:Gdor' 0470*.abc
+Rp 'K: *G' 'K:Em' 0471*.abc
+Rp 'K: *Bb' 'K:Gm' 0473*.abc
+Rp 'K: *Bb' 'K:Gm' 0474*.abc
+Rp 'K: *C' 'K:Am' 0475*.abc
+Rp 'K: *C' 'K:Am' 0476*.abc
+Rp 'K: *F' 'K:Dm' 0480*.abc
+Rp 'K: *C' 'K:Am' 0481*.abc
+Rp 'K: *Bb' 'K:Gm' 0485*.abc
+Rp 'K: *Bb' 'K:Gm' 0486*.abc
+
+# 0501-0550_dw.abc
+Rp 'K: *F' 'K:Dm' 0504*.abc
+Rp 'K: *Bb' 'K:Gm' 0513*.abc
+Rp 'K: *Bb' 'K:Gm' 0516*.abc
+Rp 'K: *Bb' 'K:Gm' 0527*.abc
+Rp 'K: *Bb' 'K:Gm' 0535*.abc
+Rp 'K: *Bb' 'K:Dphr ' 0539*.abc
+Rp 'K: *F' 'K:Dm' 0545*.abc
+Rp 'K: *Bb' 'K:Gm' 0546*.abc
+
+# 0550-625_jw.abc
+Rp 'K: *Bb' 'K:Gm' 0551*.abc
+Rp 'K: *F' 'K:Dm' 0554*.abc
+Rp 'K: *Bb' 'K:Gm ' 0555*.abc
+Rp 'K: *F' 'K:Dm' 0561*.abc
+Rp 'K: *D' 'K:Amix' 0562*.abc
+Rp 'K: *G' 'K:Em' 0569*.abc
+Rp 'K: *G' 'K:Em' 0571*.abc
+Rp 'K: *Bb' 'K:Gm' 0576*.abc
+Rp 'K: *C' 'K:Am' 0580*.abc
+Rp 'K: *Bb' 'K:Gm' 0583*.abc
+Rp 'K: *C' 'K:Gmix' 0584*.abc
+Rp 'K: *G' 'K:Em' 0592*.abc
+Rp 'K: *F' 'K:Dm' 0596*.abc
+Rp 'K: *F' 'K:Dm' 0597*.abc
+Rp 'K: *F' 'K:Dm' 0598*.abc
+Rp 'K: *C' 'K:Gmix' 0607*.abc
+Rp 'K: *C' 'K:Ddor' 0609*.abc
+Rp 'K: *Bb' 'K:Gm' 0616*.abc
+
+# 0701-720_lw.abc
+Rp 'K: *C' 'K:Am' 0705*.abc
+Rp 'K: *C' 'K:Am' 0712*.abc
+Rp 'K: *G' 'K:Dmix' 0716*.abc
+
+# 0721-730_mp.abc
+Rp 'K: *C' 'K:Am' 0729*.abc
+
+# 0732-0758_mh.abc
+Rp 'K: *G' 'K:Em' 0735*.abc
+Rp 'K: *G' 'K:Dmix' 0736*.abc
+Rp 'K: *G' 'K:Dmix' 0737*.abc
+Rp 'K: *G' 'K:Em' 0738*.abc
+Rp 'K: *C' 'K:Am' 0740*.abc
+Rp 'K: *D' 'K:Bm' 0744*.abc
+Rp 'K: *D' 'K:Bn' 0745*.abc
+Rp 'K: *C' 'K:Am' 0746*.abc
+Rp 'K: *G' 'K:Em' 0755*.abc
+Rp 'K: *G' 'K:Em' 0756*.abc
+
+# 0759-0810_sf.abc
+Rp 'K: *C' 'K:Am' 0765*.abc
+Rp 'K: *G' 'K:Dmix' 0767*.abc
+Rp 'K: *G' 'K:Dmix' 0769*.abc
+Rp 'K: *G' 'K:Em' 0773*.abc
+Rp 'K: *D' 'K:Amix' 0785*.abc
+Rp 'K: *G' 'K:Em' 0786*.abc
+Rp 'K: *G' 'K:Em' 0787*.abc
+Rp 'K: *C' 'K:Am' 0789*.abc
+Rp 'K: *C' 'K:Am' 0792*.abc
+Rp 'K: *A' 'K:Dmix' 0797*.abc
+Rp 'K: *G' 'K:Em' 0798*.abc
+Rp 'K: *C' 'K:Ddor' 0801*.abc
+
+# 0900-0950_tk.abc
+Rp 'K: *C' 'K:Am' 0908*.abc
+Rp 'K: *C' 'K:Gmix' 0909*.abc
+Rp 'K: *G' 'K:Em' 0913*.abc
+Rp 'K: *G' 'K:Em' 0915*.abc
+Rp 'K: *G' 'K:Em' 0919*.abc
+Rp 'K: *C' 'K:Am' 0929*.abc
+Rp 'K: *C' 'K:Am' 0930*.abc
+Rp 'K: *A' 'K:Dlyd' 0932*.abc
+Rp 'K: *G' 'K:Em' 0940*.abc
+
+# 0981-1000_rt.abc
+Rp 'K: *C' 'K:Am' 0990*.abc
+Rp 'K: *G' 'K:Em' 0993*.abc
+Rp 'K: *C' 'K:Am' 0994*.abc
+Rp 'K: *G' 'K:Em' 1000*.abc
+Rp 'K: *D' 'K:Amix' 1044*.abc
+Rp 'K: *C' 'K:Am' 1050*.abc
+Rp 'K: *Bb' 'K:Gm' 1054*.abc
+Rp 'K: *C' 'K:Am' 1060*.abc
+Rp 'K: *F' 'K:Dm' 1075*.abc
+Rp 'K: *C' 'K:Am' 1081*.abc
+Rp 'K: *G' 'K:Em' 1104*.abc
+Rp 'K: *Bb' 'K:Gm' 1105*.abc
+Rp 'K: *D' 'K:Edor' 1108*.abc
+Rp 'K: *D' 'K:Amix' 1110*.abc
+Rp 'K: *G' 'K:Em' 1111*.abc
+Rp 'K: *Bb' 'K:Gm' 1112*.abc
+Rp 'K: *C' 'K:Am' 1113*.abc
+Rp 'K: *C' 'K:Am' 1114*.abc
+
+# 1116-1135_mh.abc
+Rp 'K: *G' 'K:Em' 1132*.abc
+
+# --
+# ______________________________________________
+# Seymour.Shlien@crc.ca, Communications Research Centre
+# P.O. Box 11490, Station H, Ottawa, CANADA, K2H8S2
+# Tel: (613)998-2551  Fax: (613)993-9950

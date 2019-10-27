@@ -1,0 +1,137 @@
+# (Message inbox:85)
+# Return-Path: seymour.shlien@crc.ca
+# Return-path: <seymour.shlien@crc.ca>
+# Envelope-to: jc@trillian.mit.edu
+# Delivery-date: Mon, 17 Dec 2001 08:11:42 -0500
+# Received: from peso.dgim.crc.ca ([142.92.39.84])
+# 	by trillian.mit.edu with esmtp (Exim 3.33 #2)
+# 	id 16FxYU-0004t2-00
+# 	for jc@trillian.mit.edu; Mon, 17 Dec 2001 08:11:42 -0500
+# Received: from crc.ca (rigel.dgbt.crc.ca [142.92.36.61])
+# 	by peso.dgim.crc.ca (8.12.0/8.12.0) with ESMTP id fBHDBBSL000267
+# 	for <jc@trillian.mit.edu>; Mon, 17 Dec 2001 08:11:11 -0500 (EST)
+# Sender: seymour@peso.dgim.crc.ca
+# Message-ID: <3C1DEEEE.53CFF09B@crc.ca>
+# Date: Mon, 17 Dec 2001 08:11:11 -0500
+# From: Seymour Shlien <seymour.shlien@crc.ca>
+# X-Mailer: Mozilla 4.7 [en] (X11; U; SunOS 5.6 sun4m)
+# X-Accept-Language: en
+# MIME-Version: 1.0
+# To: John Chambers <jc@trillian.mit.edu>
+# Subject: rest of the corrections to O'Neills 1850 collection
+# References: <200112101616.fBAGGISL016005@peso.dgim.crc.ca>
+# Content-Type: text/plain; charset=us-ascii
+# Content-Transfer-Encoding: 7bit
+#
+# Here are the last of the corrections. After you have applied these
+# corrections, I would appreciate if you would compress the directory,
+# http://trillian.mit.edu/~jc/music/book/oneills/1850/X
+# so I can download it from your site. Alternatively you can e-mail the
+# compressed file as an attachment.
+#
+#
+# Rp 'K: *C' 'K:Am' 0103*.abc
+#
+# 1136-1175_sf.abc
+Rp 'K: *G' 'K:Em' 1152*.abc
+Rp 'K: *G' 'K:Em' 1164*.abc
+Rp 'K: *G' 'K:Em' 1173*.abc
+Rp 'K: *G' 'K:Em' 1174*.abc
+#
+#
+# 1176-1275_to.abc
+Rp 'K: *Bb' 'K:Gm' 1176*.abc
+Rp 'K: *C'  'K:Am' 1181*.abc
+Rp 'K: *C'  'K:Am' 1182*.abc
+Rp 'K: *G'  'K:Em' 1192*.abc
+Rp 'K: *Bb' 'K:Gm' 1197*.abc
+Rp 'K: *Bb' 'K:Gm' 1200*.abc
+Rp 'K: *Bb' 'K:Gm' 1216*.abc
+Rp 'K: *G'  'K:Em' 1217*.abc
+Rp 'K: *G'  'K:Em' 1221*.abc
+Rp 'K: *G'  'K:Em' 1243*.abc
+Rp 'K: *C'  'K:Am' 1256*.abc
+Rp 'K: *G'  'K:Em' 1264*.abc
+Rp 'K: *G'  'K:Em' 1267*.abc
+#
+# 1276-1375_to.abc
+Rp 'K: *C'  'K:Am' 1276*.abc
+Rp 'K: *C'  'K:Am' 1281*.abc
+Rp 'K: *C'  'K:Am' 1282*.abc
+Rp 'K: *D'  'K:Bm' 1284*.abc
+Rp 'K: *C'  'K:Am' 1285*.abc
+Rp 'K: *G'  'K:Ador' 1290*.abc
+Rp 'K: *G'  'K:Em' 1298*.abc
+Rp 'K: *D'  'K:Bm' 1304*.abc
+Rp 'K: *G'  'K:Em' 1316*.abc
+Rp 'K: *G'  'K:Em' 1317*.abc
+Rp 'K: *G'  'K:Em' 1324*.abc
+Rp 'K: *D'  'K:Amix' 1326*.abc
+Rp 'K: *F'  'K:Dm' 1328*.abc
+Rp 'K: *G'  'K:Ador' 1332*.abc
+Rp 'K: *Bb' 'K:Gm' 1337*.abc
+Rp 'K: *G'  'K:Em' 1340*.abc
+Rp 'K: *C'  'K:Am' 1345*.abc
+Rp 'K: *G'  'K:Em' 1349*.abc
+Rp 'K: *D'  'K:Gmix' 1358*.abc
+Rp 'K: *G'  'K:Em' 1360*.abc
+Rp 'K: *C'  'K:Am' 1363*.abc
+Rp 'K: *Bb' 'K:Gm' 1375*.abc
+#
+# 1376-1475_bs.abc
+Rp 'K: *G'  'K:Bphr' 1376*.abc
+Rp 'K: *C'  'K:Am' 1388*.abc
+Rp 'K: *G'  'K:Em' 1398*.abc
+Rp 'K: *G'  'K:Em' 1399*.abc
+Rp 'K: *C'  'K:Am' 1402*.abc
+Rp 'K: *G'  'K:Em' 1403*.abc
+Rp 'K: *G'  'K:Em' 1407*.abc
+Rp 'K: *G'  'K:Em' 1414*.abc
+Rp 'K: *C'  'K:Am' 1421*.abc
+Rp 'K: *G'  'K:Am' 1423*.abc
+Rp 'K: *D'  'K:Edor' 1424*.abc
+Rp 'K: *G'  'K:Em' 1425*.abc
+Rp 'K: *G'  'K:Em' 1427*.abc
+Rp 'K: *D'  'K:Glyd' 1430*.abc
+Rp 'K: *D'  'K:Bm' 1444*.abc
+Rp 'K: *G'  'K:Em' 1449*.abc
+Rp 'K: *C'  'K:Am' 1470*.abc
+Rp 'K: *G'  'K:Dmix' 1472*.abc
+Rp 'K: *Bb' 'K:Gm' 1474*.abc
+#
+# 1476-1555_jw.abc
+Rp 'K: *C'  'K:Am' 1485*.abc
+Rp 'K: *C'  'K:Am' 1504*.abc
+Rp 'K: *G'  'K:Em' 1505*.abc
+Rp 'K: *G'  'K:Ador' 1510*.abc
+Rp 'K: *G'  'K:Em' 1519*.abc
+Rp 'K: *G'  'K:Em' 1522*.abc
+Rp 'K: *C'  'K:Am' 1539*.abc
+Rp 'K: *G'  'K:Dmix' 1553*.abc
+#
+# 1701-1780_bs.abc
+Rp 'K: *G'  'K:Em' 1733*.abc
+Rp 'K: *Bb' 'K:Gm' 1759*.abc
+#
+# 1710-1750_lw.abc
+Rp 'K: *Gm' 'K:Bb' 1721*.abc
+Rp 'K: *Gm' 'K:Bb' 1735*.abc
+Rp 'K: *Gm' 'K:Bb' 1747*.abc
+#
+# 1781-1800_rt.abc
+Rp 'K: *G'  'K:Em' 1789*.abc
+#
+# 1801-1850_bs.abc
+Rp 'K: *C'  'K:Am' 1801*.abc
+Rp 'K: *G'  'K:Bphr' 1803*.abc
+Rp 'K: *F'  'K:Dm' 1807*.abc
+Rp 'K: *Bb' 'K:Gm' 1808*.abc
+Rp 'K: *G'  'K:Em' 1816*.abc
+Rp 'K: *C'  'K:Am' 1824*.abc
+Rp 'K: *G'  'K:Em' 1842*.abc
+#
+# --
+# ______________________________________________
+# Seymour.Shlien@crc.ca, Communications Research Centre
+# P.O. Box 11490, Station H, Ottawa, CANADA, K2H8S2
+# Tel: (613)998-2551  Fax: (613)993-9950
